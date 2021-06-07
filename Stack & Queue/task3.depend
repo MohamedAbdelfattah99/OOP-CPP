@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1610204967 source:c:\users\mohamed\desktop\task3\main.cpp
+	<iostream>
+	<limits>
+
+1610192493 source:c:\users\mohamed\desktop\task3\mylist.cpp
+	"MyList.h"
+	<iostream>
+
+1610192382 c:\users\mohamed\desktop\task3\mylist.h
+
+1610192493 c:\users\mohamed\desktop\task3\mylist.cpp
+	"MyList.h"
+	<iostream>
+
